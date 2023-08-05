@@ -1,0 +1,25 @@
+.appName {
+  text-align: center;
+  font-size: 32px;
+}
+.wrapper {
+  margin: 0 auto;
+  margin-top: 48px;
+  width: 60%;
+  border: 1px solid #b4b4b4;
+  border-radius: 8px;
+  padding: 16px;
+}
+.titleWrapper {
+  margin-bottom: 20px;
+}
+.formElement {
+  margin-bottom: 20px;
+}
+.title {
+  font-size: 24px;
+}
+
+.subTitle {
+  font-size: 18px;
+}
